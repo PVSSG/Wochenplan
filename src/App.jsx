@@ -1,4 +1,4 @@
-​​​​​​​​​​​​​​​​import { useState, useEffect } from “react”;
+​​​​​import { useState, useEffect } from “react”;
 
 const DAYS = [“Montag”, “Dienstag”, “Mittwoch”, “Donnerstag”, “Freitag”, “Samstag”, “Sonntag”];
 const DAY_SHORT = [“Mo”, “Di”, “Mi”, “Do”, “Fr”, “Sa”, “So”];
